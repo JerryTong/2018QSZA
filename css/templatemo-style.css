@@ -61,6 +61,7 @@ a:link{
 .navbar-brand em {
     font-size: 26px;
     font-style: normal;
+    color: #000000;
 }
 
 .nav .navbar-nav {
